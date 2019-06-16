@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ScreenUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6acc425d492d8694bbcc06516394ecb7, type: 3}
+    totalSpriteSurfaceArea: 12081897
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5e3c645094e747e42a49f883ed2df717, type: 3}
+  - {fileID: 21300000, guid: 8efe7e8003689e449adbaa02f1b58f94, type: 3}
+  - {fileID: 21300000, guid: 18be5e4149f9435408985d5f2949993d, type: 3}
+  - {fileID: 21300000, guid: 325526610f4539b4e88b6ffd2a2fe2f6, type: 3}
+  - {fileID: 21300000, guid: 0093c932c68422b4db57431a30dbafea, type: 3}
+  - {fileID: 21300000, guid: 7421f982101436f47b8d0f0679d53797, type: 3}
+  - {fileID: 21300000, guid: 4f19a492c37c54247ba506c082afb30a, type: 3}
+  - {fileID: 21300000, guid: e393c163419c30944840b24673ab0991, type: 3}
+  - {fileID: 21300000, guid: b9bbb37322394a84bae4028a5cbc19cd, type: 3}
+  - {fileID: 21300000, guid: 1ed64bf3924fc8f42b5828423c62fafc, type: 3}
+  - {fileID: 21300000, guid: 8020be14004a82b4da4bb969f3747e57, type: 3}
+  - {fileID: 21300000, guid: 9b2f68e4b4ae14f4086d8c8fd1633630, type: 3}
+  - {fileID: 21300000, guid: 46268f550066a524e90882614fca797f, type: 3}
+  - {fileID: 21300000, guid: 8dfd8bf52cee10640a0a16124c1dfefb, type: 3}
+  - {fileID: 21300000, guid: d1086956adf9c164b9e231b07b34bd89, type: 3}
+  - {fileID: 21300000, guid: 0eb70976dec6f1f43864bf9199bb16e4, type: 3}
+  - {fileID: 21300000, guid: 2ec1d1c6e939efc4b87a671adacb00f2, type: 3}
+  - {fileID: 21300000, guid: 56cf9ec6fff39e94c9110a1eac3335a4, type: 3}
+  - {fileID: 21300000, guid: 7678005774e7ac64baffd8de59f3b16d, type: 3}
+  - {fileID: 21300000, guid: 08ca54e809717fa479ca94b5772deff0, type: 3}
+  - {fileID: 21300000, guid: 212ab90969983fc438d253870195f8e7, type: 3}
+  - {fileID: 21300000, guid: c1eca3193e4b20d4089ab2cfcd981608, type: 3}
+  - {fileID: 21300000, guid: 059698690a42a3d4e8a72458d0b03965, type: 3}
+  - {fileID: 21300000, guid: 6e7ab5da4d9034a4db303605f233d3f5, type: 3}
+  - {fileID: 21300000, guid: f29588fabe6496a49a481932857f6985, type: 3}
+  - {fileID: 21300000, guid: c7aef75bc7b0f4747973d97a37b3eae5, type: 3}
+  - {fileID: 21300000, guid: c2b2aa5b6920f414b994ac603ff107ed, type: 3}
+  - {fileID: 21300000, guid: d58aba6c75945b04d8f7fc9aeef43bbf, type: 3}
+  - {fileID: 21300000, guid: 1e1acc7cb93f360458ff8009a34cbc63, type: 3}
+  - {fileID: 21300000, guid: d81e31cde1ffef448b904c5d9f672d1d, type: 3}
+  - {fileID: 21300000, guid: a197becdc079a6a4a876d926531caf64, type: 3}
+  - {fileID: 21300000, guid: a43fc5bea3b41be4bb251b505ad48756, type: 3}
+  - {fileID: 21300000, guid: bfcd36feedb9a474d891c9ebcad58f3e, type: 3}
+  - {fileID: 21300000, guid: 8f4c375f3b76a77439b46d65a2b02290, type: 3}
+  - {fileID: 21300000, guid: aba77e7fd9aa7f04181b5b7efc26d488, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - pup_win_0014_Vector-Smart-Object
+  - title
+  - pup_win_0019_Vector-Smart-Object
+  - border_shop
+  - banner_buy_shop
+  - btn_pause
+  - pup_win_0002_Vector-Smart-Object
+  - font10_5
+  - pup_win_0020_Vector-Smart-Object
+  - bg_home
+  - banner_shop
+  - pup_win_0007_m3
+  - pup_win_0016_Vector-Smart-Object-copy
+  - character_1
+  - pup_win_0004_Vector-Smart-Object
+  - bg_shop
+  - pup_win_0017_Vector-Smart-Object
+  - character_2
+  - pup_win_0015_Vector-Smart-Object
+  - pup_win_0001_Vector-Smart-Object
+  - bg_coin
+  - thua_cuoc
+  - font05_0
+  - pup_win_0006_m2
+  - border_buy_shop
+  - pup_win_0018_Vector-Smart-Object
+  - character_3
+  - chien_thang
+  - pup_win_0005_m1
+  - pup_win_0008_m4
+  - shop
+  - pup_win_0018_Vector-Smart-Object-copy-2
+  - pup_win_0011_Vector-Smart-Object
+  - cover_shop
+  - pup_win_0012_Vector-Smart-Object
+  m_Tag: ScreenUI
+  m_IsVariant: 0

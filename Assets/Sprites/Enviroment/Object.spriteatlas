@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Object
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ba2302302f4c5624c88d607548bae727, type: 3}
+    totalSpriteSurfaceArea: 1237802
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d63d6c20a68d8c8418fad7c9342942a2, type: 3}
+  - {fileID: 21300000, guid: 30bbd650af69fb04999446bc58e54b0a, type: 3}
+  - {fileID: 21300000, guid: dce1697205e8f5142b6504823e768c44, type: 3}
+  - {fileID: 21300000, guid: 0c9371a25e941d641b23bad9296dc7e0, type: 3}
+  - {fileID: 21300000, guid: 7c8672c3de6331742ab60ede8b9f6ca0, type: 3}
+  - {fileID: 21300000, guid: 081ef4c4c2b203d4abc5ebe5f10aa33d, type: 3}
+  - {fileID: 21300000, guid: 503b6bb669d27f34ab700453d2fa7339, type: 3}
+  - {fileID: 21300000, guid: 31d5d3e61712a4a44a2aa6221c9b5dee, type: 3}
+  - {fileID: 21300000, guid: 42f24ef61d7ce594db80ffa472f61da8, type: 3}
+  - {fileID: 21300000, guid: 5fe70338bb73308458970768d659aeec, type: 3}
+  - {fileID: 21300000, guid: 47d6ff78b9b157f4f9baa5900c66a646, type: 3}
+  - {fileID: 21300000, guid: e37f77c8d828f7c409f7e44f65c81dde, type: 3}
+  - {fileID: 21300000, guid: 96ecc9d87c308bd46be9ca89fcddc06c, type: 3}
+  - {fileID: 21300000, guid: 0fd8b35943c5c8a4f97e00639350d1df, type: 3}
+  - {fileID: 21300000, guid: c93c153af98244240b38c4e6ca6a0b73, type: 3}
+  - {fileID: 21300000, guid: cddf4e5ac9468ae44ae4d3849a4e607b, type: 3}
+  - {fileID: 21300000, guid: 486c1b8aa7bc4a7459e31ebea2f6e310, type: 3}
+  - {fileID: 21300000, guid: 2c709b9ab1181ec4eb878ef31aedcef2, type: 3}
+  - {fileID: 21300000, guid: 7932e18bf44d2f646885ab3591c62136, type: 3}
+  - {fileID: 21300000, guid: 6918128bcd9e85b47bf56baf9e7ec985, type: 3}
+  - {fileID: 21300000, guid: 5e36b71c36dd5c7439529269778cf245, type: 3}
+  - {fileID: 21300000, guid: cf3233ccfed23f446a72953cd2ad5160, type: 3}
+  - {fileID: 21300000, guid: ecfa202d247fcba4ea050a0b1ef9045a, type: 3}
+  - {fileID: 21300000, guid: 8e21d83dd0d669a4eadb168f28fec947, type: 3}
+  - {fileID: 21300000, guid: 6c7b110e6f00b594290e092e2714aaea, type: 3}
+  - {fileID: 21300000, guid: 67a1eefe8a0199a45bd25ba3a87fad28, type: 3}
+  - {fileID: 21300000, guid: 00feff8ffb78c2b45899844dcb695f96, type: 3}
+  - {fileID: 21300000, guid: 45b5c79fc4b61ac46a9f3cc078b07219, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dan
+  - no_03
+  - pup_win_0000_Layer-13
+  - font04_2
+  - font01_0
+  - no_05
+  - ong_tancong01
+  - tim_bay02
+  - font07_0
+  - font11_0
+  - pup_win_0002_Layer-11
+  - font02_1
+  - tim_tancong
+  - pup_win_0001_Layer-12
+  - trong_gai
+  - dan_01
+  - font08_4
+  - font15_0
+  - font09_0
+  - tim_bay01
+  - pup_win_0003_Layer-10
+  - no_01
+  - font06_3
+  - ong_tancong02
+  - ong_bay01
+  - font03_0
+  - ong_bay02
+  - font16_8
+  m_Tag: Object
+  m_IsVariant: 0

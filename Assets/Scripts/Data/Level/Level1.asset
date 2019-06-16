@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cc8982599bbf934693a30206d62ad02, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  levelData: {fileID: 2691897867789602835, guid: 2bd94639623b03f46bfc84faf56433c4,
+    type: 3}
+  levelLock: 0
+  carrotPointData: 40
+  pearPointData: 40
+  coinData: 40
+  playerPositionData: {x: 0, y: 0, z: 0}
+  xMin: 0
+  xMax: 30.4
+  yMin: 0
+  yMax: 0

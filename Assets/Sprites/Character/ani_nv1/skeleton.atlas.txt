@@ -1,0 +1,33 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 262, 118
+  size: 246, 116
+  orig: 246, 116
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 232, 258
+  orig: 232, 258
+  offset: 0, 0
+  index: -1
+leg_front
+  rotate: false
+  xy: 348, 38
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+leg_rear
+  rotate: false
+  xy: 262, 36
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1

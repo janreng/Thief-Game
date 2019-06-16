@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Background1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 26c31a76327baa54f9a88fca9ff0e324, type: 3}
+    totalSpriteSurfaceArea: 3136673
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f28dfc93a7a8d714a87f6c0aa0a5c3f4, type: 3}
+  - {fileID: 21300000, guid: bfd77ce3a873748478826d7a4b4cd1ad, type: 3}
+  - {fileID: 21300000, guid: b522256692e39774a93ce46f908dd260, type: 3}
+  - {fileID: 21300000, guid: 2f425317784217244b755cc9fde74cd3, type: 3}
+  - {fileID: 21300000, guid: 7e359cb9a041f7049a51cbfbd4c65c09, type: 3}
+  - {fileID: 21300000, guid: dca8eb2a95453bc4bbf2ce06e64ef172, type: 3}
+  - {fileID: 21300000, guid: cba8783a7b43a7e4abcfb6f4ebd22195, type: 3}
+  - {fileID: 21300000, guid: bd2fc13b9498d82439699cc3f9258dee, type: 3}
+  - {fileID: 21300000, guid: 76facdab61fb8434d9a09ee269c06977, type: 3}
+  - {fileID: 21300000, guid: 4878ee1cef6dafa48ba7119d0f130dce, type: 3}
+  - {fileID: 21300000, guid: b1a9d63c096004b4b9af1789a186a66b, type: 3}
+  - {fileID: 21300000, guid: 17872ccd3a0607c42a7972d7f981fd29, type: 3}
+  - {fileID: 21300000, guid: b63153cfa08038149a2552cb4ee2fece, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - big-tree
+  - 1
+  - small-tree2
+  - 2
+  - small-chain
+  - 4
+  - 6
+  - 5
+  - moutain
+  - big-chain
+  - small-tree
+  - 3
+  - big-tree2
+  m_Tag: Background1
+  m_IsVariant: 0
